@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SecondProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|c:\\users\\user\\source\\repos\\secondproject\\secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|c:\\users\\user\\source\\repos\\secondproject\\secondproject\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|c:\\users\\user\\source\\repos\\secondproject\\secondproject\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|c:\\users\\user\\source\\repos\\secondproject\\secondproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|c:\\users\\user\\source\\repos\\secondproject\\secondproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FC9A706-33B0-4313-98D3-A2D090712DDD}|SecondProject\\SecondProject.csproj|solutionrelative:secondproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Pages\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "SecondProject\\Pages\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Pages\\AccessDenied.cshtml",
+              "RelativeToolTip": "SecondProject\\Pages\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T21:43:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "SecondProject\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "SecondProject\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:01:48.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SecondProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SecondProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T21:08:20.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SecondProject\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SecondProject\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:47:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Program.cs",
+              "RelativeDocumentMoniker": "SecondProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SecondProject\\SecondProject\\Program.cs \u2B24",
+              "RelativeToolTip": "SecondProject\\Program.cs \u2B24",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:45:12.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

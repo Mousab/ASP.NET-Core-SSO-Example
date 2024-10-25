@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|c:\\users\\user\\source\\repos\\firstproject\\firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|c:\\users\\user\\source\\repos\\firstproject\\firstproject\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|c:\\users\\user\\source\\repos\\firstproject\\firstproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|c:\\users\\user\\source\\repos\\firstproject\\firstproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|c:\\users\\user\\source\\repos\\firstproject\\firstproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D844487-AA13-4DE3-8102-AD3EC8E8DFB9}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "FirstProject\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:19:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FirstProject\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:19:13.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T21:07:19.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\Program.cs \u2B24",
+              "RelativeToolTip": "FirstProject\\Program.cs \u2B24",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:34:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FirstProject\\FirstProject\\appsettings.json",
+              "RelativeToolTip": "FirstProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T20:27:32.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
